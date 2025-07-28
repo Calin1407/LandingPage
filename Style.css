@@ -1,11 +1,24 @@
 body{
-    background-color: #8EC5FF;
+    background-color: #2b351b;
+    margin: 1.5% 25%;
 }
 
-titulo{
-    color:rgb(34, 100, 56);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+#titulo{
     text-align: center;
-
-    border: 1px solid #07411D
+    border: 1px solid #9dff00;
 }
+
+
+#columnas{
+    display: flex;
+    justify-content: space-between;
+}
+#izquierda{
+    width: 65%;
+}
+#derecha{
+    width: 35%;
+}
+
+
