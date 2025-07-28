@@ -1,0 +1,9 @@
+body{
+    background-color:papayawhip;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Calin{/*#<nombre de id>*/
+    width: 15%;
+    border: 1px solid red;
+}
