@@ -1,0 +1,11 @@
+body{
+    background-color: #8EC5FF;
+}
+
+titulo{
+    color:rgb(34, 100, 56);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+
+    border: 1px solid #07411D
+}
