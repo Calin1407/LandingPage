@@ -15,10 +15,30 @@ body{
     justify-content: space-between;
 }
 #izquierda{
+    box-sizing: border-box;
     width: 65%;
+    border: 1px solid #ff0000;
 }
 #derecha{
+    
     width: 35%;
+    border: 1px solid #ff0000;
 }
 
 
+#url{
+    border: 1px solid #ff0000;
+}
+#texto{
+    border: 1px solid #ff0000;
+}
+
+#img-1{
+    border: 1px solid #ff0000;
+}
+#img-2{
+    border: 1px solid #ff0000;
+}
+#img-3{
+    border: 1px solid #ff0000;
+}
