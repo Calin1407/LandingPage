@@ -1,10 +1,12 @@
 body{
     background-color: #2b351b;
+    color: #000000;
     margin: 1.5% 25%;
 }
 
 
 #titulo{
+    background-color: #dfffab;
     text-align: center;
     border: 1px solid #9dff00;
 }
@@ -15,21 +17,23 @@ body{
     justify-content: space-between;
 }
 #izquierda{
+    background-color: #dfffab;
     box-sizing: border-box;
     width: 65%;
     border: 1px solid #ff0000;
+    
 }
 #derecha{
-    
+    background-color: #97c44f;
     width: 35%;
     border: 1px solid #ff0000;
 }
 
 
-#url{
+#texto{
     border: 1px solid #ff0000;
 }
-#texto{
+#juego{
     border: 1px solid #ff0000;
 }
 
